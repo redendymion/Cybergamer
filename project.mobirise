@@ -34,7 +34,7 @@
             "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "images/bg5.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -46,7 +46,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Cyber Gamers",
+          "title": "Gamers Empire",
           "text": "Welcome sign up to our news letter.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"index.html#form1-1\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-letter mbr-iconfont mbr-iconfont-btn\"></span>Contact Us</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#form2-2\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-paperclip mbr-iconfont mbr-iconfont-btn\"></span>News Fourm</a>",
           "_tags": [
@@ -66,8 +66,8 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "images/slide1.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -77,8 +77,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#form2-2\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Join us</a> "
               },
               {
-                "image": "images/slide2.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-1440x1080.jpg",
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
