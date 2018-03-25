@@ -74,7 +74,7 @@
                 "title": "We Code<br>",
                 "contentAlign": "right",
                 "text": "We Code our empire strong. Help us grow and build apps and websites for our empire.<br>WE ARE STRONGER TOGETHER<br>Join us",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Join us</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#form2-2\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Join us</a> "
               },
               {
                 "image": "images/slide2.jpg",
@@ -85,7 +85,7 @@
                 "title": "We Game",
                 "contentAlign": "left",
                 "text": "We game to stay scoil and devolep our skills.<br>you could help us do that.<br>Join us",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Join us</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#form2-2\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Join us</a>"
               }
             ]
           },
@@ -177,7 +177,7 @@
             "overlayOpacity": 0.5
           },
           "title": "SUBSCRIBE TO OUR NEWSLETTER",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">SUBSCRIBE</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SUBSCRIBE</a>",
           "form": {
             "action": "darrenoneill212@gmail.com",
             "alerts": {
