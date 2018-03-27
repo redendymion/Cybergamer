@@ -84,7 +84,7 @@
                 "showTitle": true,
                 "title": "We Game",
                 "contentAlign": "left",
-                "text": "We game to stay scoil and devolep our skills.<br>you could help us do that.<br>Join us",
+                "text": "We game to devolep our skills.<br>you could help us do that.<br>Join us",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#form2-2\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Join us</a>"
               }
             ]
